@@ -1,0 +1,1344 @@
+{
+    "countries2": [
+        {
+            "country": "Afghanistan",
+            "happiness_score2020": "2.566900015",
+            "gpd_per_capita2020": "0.30070585",
+            "social_support2020": "0.356433839",
+            "healthy_life_expectancy2020": "0.266051531",
+            "freedom_to_make_life_choices2020": "0",
+            "latitude": "33",
+            "longtitude": "65"
+        },
+        {
+            "country": "Albania",
+            "happiness_score2020": "4.882699966",
+            "gpd_per_capita2020": "0.906653047",
+            "social_support2020": "0.830483913",
+            "healthy_life_expectancy2020": "0.846329629",
+            "freedom_to_make_life_choices2020": "0.461945891",
+            "latitude": "41",
+            "longtitude": "20"
+        },
+        {
+            "country": "Algeria",
+            "happiness_score2020": "5.005099773",
+            "gpd_per_capita2020": "0.943856001",
+            "social_support2020": "1.143003583",
+            "healthy_life_expectancy2020": "0.745418549",
+            "freedom_to_make_life_choices2020": "0.083943799",
+            "latitude": "28",
+            "longtitude": "3"
+        },
+        {
+            "country": "Argentina",
+            "happiness_score2020": "5.974699974",
+            "gpd_per_capita2020": "1.028465629",
+            "social_support2020": "1.372543693",
+            "healthy_life_expectancy2020": "0.849773705",
+            "freedom_to_make_life_choices2020": "0.520840347",
+            "latitude": "-34",
+            "longtitude": "-64"
+        },
+        {
+            "country": "Armenia",
+            "happiness_score2020": "4.676799774",
+            "gpd_per_capita2020": "0.808262408",
+            "social_support2020": "1.034576893",
+            "healthy_life_expectancy2020": "0.77585727",
+            "freedom_to_make_life_choices2020": "0.378075808",
+            "latitude": "40",
+            "longtitude": "45"
+        },
+        {
+            "country": "Australia",
+            "happiness_score2020": "7.222799778",
+            "gpd_per_capita2020": "1.310396433",
+            "social_support2020": "1.477146268",
+            "healthy_life_expectancy2020": "1.022607684",
+            "freedom_to_make_life_choices2020": "0.621877193",
+            "latitude": "-27",
+            "longtitude": "133"
+        },
+        {
+            "country": "Austria",
+            "happiness_score2020": "7.294199944",
+            "gpd_per_capita2020": "1.317285538",
+            "social_support2020": "1.437444925",
+            "healthy_life_expectancy2020": "1.000933528",
+            "freedom_to_make_life_choices2020": "0.603368878",
+            "latitude": "47.3333",
+            "longtitude": "13.3333"
+        },
+        {
+            "country": "Azerbaijan",
+            "happiness_score2020": "5.164800167",
+            "gpd_per_capita2020": "0.990272701",
+            "social_support2020": "1.180613041",
+            "healthy_life_expectancy2020": "0.731134057",
+            "freedom_to_make_life_choices2020": "0.467734724",
+            "latitude": "40.5",
+            "longtitude": "47.5"
+        },
+        {
+            "country": "Bahrain",
+            "happiness_score2020": "6.227300167",
+            "gpd_per_capita2020": "1.296692252",
+            "social_support2020": "1.31532371",
+            "healthy_life_expectancy2020": "0.838836372",
+            "freedom_to_make_life_choices2020": "0.610399902",
+            "latitude": "26",
+            "longtitude": "50.55"
+        },
+        {
+            "country": "Bangladesh",
+            "happiness_score2020": "4.832799911",
+            "gpd_per_capita2020": "0.556156278",
+            "social_support2020": "0.868800581",
+            "healthy_life_expectancy2020": "0.694940507",
+            "freedom_to_make_life_choices2020": "0.604130566",
+            "latitude": "24",
+            "longtitude": "90"
+        },
+        {
+            "country": "Belarus",
+            "happiness_score2020": "5.539899826",
+            "gpd_per_capita2020": "1.018854499",
+            "social_support2020": "1.38713932",
+            "healthy_life_expectancy2020": "0.75258857",
+            "freedom_to_make_life_choices2020": "0.290755868",
+            "latitude": "53",
+            "longtitude": "28"
+        },
+        {
+            "country": "Belgium",
+            "happiness_score2020": "6.863500118",
+            "gpd_per_capita2020": "1.295842767",
+            "social_support2020": "1.398677588",
+            "healthy_life_expectancy2020": "0.964901149",
+            "freedom_to_make_life_choices2020": "0.499805421",
+            "latitude": "50.8333",
+            "longtitude": "4"
+        },
+        {
+            "country": "Benin",
+            "happiness_score2020": "5.21600008",
+            "gpd_per_capita2020": "0.366244704",
+            "social_support2020": "0.352428436",
+            "healthy_life_expectancy2020": "0.328062952",
+            "freedom_to_make_life_choices2020": "0.40583989",
+            "latitude": "9.5",
+            "longtitude": "2.25"
+        },
+        {
+            "country": "Bosnia and Herzegovina",
+            "happiness_score2020": "5.674099922",
+            "gpd_per_capita2020": "0.91839546",
+            "social_support2020": "1.203986526",
+            "healthy_life_expectancy2020": "0.813928187",
+            "freedom_to_make_life_choices2020": "0.305365741",
+            "latitude": "44",
+            "longtitude": "18"
+        },
+        {
+            "country": "Botswana",
+            "happiness_score2020": "3.478899956",
+            "gpd_per_capita2020": "0.997548997",
+            "social_support2020": "1.08569479",
+            "healthy_life_expectancy2020": "0.494101733",
+            "freedom_to_make_life_choices2020": "0.50908941",
+            "latitude": "-22",
+            "longtitude": "24"
+        },
+        {
+            "country": "Brazil",
+            "happiness_score2020": "6.375599861",
+            "gpd_per_capita2020": "0.952679873",
+            "social_support2020": "1.363464117",
+            "healthy_life_expectancy2020": "0.766119063",
+            "freedom_to_make_life_choices2020": "0.483292729",
+            "latitude": "-10",
+            "longtitude": "-55"
+        },
+        {
+            "country": "Bulgaria",
+            "happiness_score2020": "5.101500034",
+            "gpd_per_capita2020": "1.046554685",
+            "social_support2020": "1.460578918",
+            "healthy_life_expectancy2020": "0.777776897",
+            "freedom_to_make_life_choices2020": "0.417820066",
+            "latitude": "43",
+            "longtitude": "25"
+        },
+        {
+            "country": "Burkina Faso",
+            "happiness_score2020": "4.768700123",
+            "gpd_per_capita2020": "0.302467644",
+            "social_support2020": "0.9293859",
+            "healthy_life_expectancy2020": "0.312833875",
+            "freedom_to_make_life_choices2020": "0.322398156",
+            "latitude": "13",
+            "longtitude": "-2"
+        },
+        {
+            "country": "Burundi",
+            "happiness_score2020": "3.775300026",
+            "gpd_per_capita2020": "0",
+            "social_support2020": "0.403575271",
+            "healthy_life_expectancy2020": "0.295212835",
+            "freedom_to_make_life_choices2020": "0.275399059",
+            "latitude": "-3.5",
+            "longtitude": "30"
+        },
+        {
+            "country": "Cambodia",
+            "happiness_score2020": "4.848400116",
+            "gpd_per_capita2020": "0.544634938",
+            "social_support2020": "1.071426034",
+            "healthy_life_expectancy2020": "0.587904334",
+            "freedom_to_make_life_choices2020": "0.674940348",
+            "latitude": "13",
+            "longtitude": "105"
+        },
+        {
+            "country": "Cameroon",
+            "happiness_score2020": "5.084899902",
+            "gpd_per_capita2020": "0.503958046",
+            "social_support2020": "0.89972645",
+            "healthy_life_expectancy2020": "0.270189553",
+            "freedom_to_make_life_choices2020": "0.439242482",
+            "latitude": "6",
+            "longtitude": "12"
+        },
+        {
+            "country": "Canada",
+            "happiness_score2020": "7.23210001",
+            "gpd_per_capita2020": "1.301647663",
+            "social_support2020": "1.435391903",
+            "healthy_life_expectancy2020": "1.022501945",
+            "freedom_to_make_life_choices2020": "0.644028127",
+            "latitude": "60",
+            "longtitude": "-95"
+        },
+        {
+            "country": "Central African Republic",
+            "happiness_score2020": "3.475899935",
+            "gpd_per_capita2020": "0.041072082",
+            "social_support2020": "0",
+            "healthy_life_expectancy2020": "0",
+            "freedom_to_make_life_choices2020": "0.292814463",
+            "latitude": "7",
+            "longtitude": "21"
+        },
+        {
+            "country": "Chad",
+            "happiness_score2020": "4.422699928",
+            "gpd_per_capita2020": "0.302287489",
+            "social_support2020": "0.739118278",
+            "healthy_life_expectancy2020": "0.1087441",
+            "freedom_to_make_life_choices2020": "0.228601769",
+            "latitude": "15",
+            "longtitude": "19"
+        },
+        {
+            "country": "Chile",
+            "happiness_score2020": "6.228499889",
+            "gpd_per_capita2020": "1.096992493",
+            "social_support2020": "1.323286891",
+            "healthy_life_expectancy2020": "0.889260828",
+            "freedom_to_make_life_choices2020": "0.417482227",
+            "latitude": "-30",
+            "longtitude": "-71"
+        },
+        {
+            "country": "China",
+            "happiness_score2020": "5.123899937",
+            "gpd_per_capita2020": "0.990533412",
+            "social_support2020": "1.132080674",
+            "healthy_life_expectancy2020": "0.867248535",
+            "freedom_to_make_life_choices2020": "0.601605117",
+            "latitude": "35",
+            "longtitude": "105"
+        },
+        {
+            "country": "Colombia",
+            "happiness_score2020": "6.163400173",
+            "gpd_per_capita2020": "0.93220371",
+            "social_support2020": "1.33445096",
+            "healthy_life_expectancy2020": "0.810020149",
+            "freedom_to_make_life_choices2020": "0.526890039",
+            "latitude": "4",
+            "longtitude": "-72"
+        },
+        {
+            "country": "Comoros",
+            "happiness_score2020": "4.288599968",
+            "gpd_per_capita2020": "0.415620774",
+            "social_support2020": "0.723232806",
+            "healthy_life_expectancy2020": "0.437383324",
+            "freedom_to_make_life_choices2020": "0.181028232",
+            "latitude": "-12.1667",
+            "longtitude": "44.25"
+        },
+        {
+            "country": "Costa Rica",
+            "happiness_score2020": "7.121399879",
+            "gpd_per_capita2020": "0.981107712",
+            "social_support2020": "1.374853611",
+            "healthy_life_expectancy2020": "0.939635336",
+            "freedom_to_make_life_choices2020": "0.645017743",
+            "latitude": "10",
+            "longtitude": "-84"
+        },
+        {
+            "country": "Croatia",
+            "happiness_score2020": "5.504700184",
+            "gpd_per_capita2020": "1.109024286",
+            "social_support2020": "1.311264873",
+            "healthy_life_expectancy2020": "0.900575578",
+            "freedom_to_make_life_choices2020": "0.381456882",
+            "latitude": "45.1667",
+            "longtitude": "15.5"
+        },
+        {
+            "country": "Cyprus",
+            "happiness_score2020": "6.15899992",
+            "gpd_per_capita2020": "1.21279943",
+            "social_support2020": "1.149170756",
+            "healthy_life_expectancy2020": "1.026124597",
+            "freedom_to_make_life_choices2020": "0.459385872",
+            "latitude": "35",
+            "longtitude": "33"
+        },
+        {
+            "country": "Czech Republic",
+            "happiness_score2020": "6.910900116",
+            "gpd_per_capita2020": "1.212322354",
+            "social_support2020": "1.40528667",
+            "healthy_life_expectancy2020": "0.89456445",
+            "freedom_to_make_life_choices2020": "0.505744576",
+            "latitude": "49.75",
+            "longtitude": "15.5"
+        },
+        {
+            "country": "Denmark",
+            "happiness_score2020": "7.645599842",
+            "gpd_per_capita2020": "1.326948524",
+            "social_support2020": "1.503449202",
+            "healthy_life_expectancy2020": "0.979332566",
+            "freedom_to_make_life_choices2020": "0.665039897",
+            "latitude": "56",
+            "longtitude": "10"
+        },
+        {
+            "country": "Dominican Republic",
+            "happiness_score2020": "5.689199924",
+            "gpd_per_capita2020": "0.983191848",
+            "social_support2020": "1.328888893",
+            "healthy_life_expectancy2020": "0.741901696",
+            "freedom_to_make_life_choices2020": "0.5628739",
+            "latitude": "19",
+            "longtitude": "-70.6667"
+        },
+        {
+            "country": "Ecuador",
+            "happiness_score2020": "5.925199986",
+            "gpd_per_capita2020": "0.853383601",
+            "social_support2020": "1.221027613",
+            "healthy_life_expectancy2020": "0.838837743",
+            "freedom_to_make_life_choices2020": "0.555234551",
+            "latitude": "-2",
+            "longtitude": "-77.5"
+        },
+        {
+            "country": "Egypt",
+            "happiness_score2020": "4.151400089",
+            "gpd_per_capita2020": "0.875228941",
+            "social_support2020": "0.982539535",
+            "healthy_life_expectancy2020": "0.596911311",
+            "freedom_to_make_life_choices2020": "0.373684734",
+            "latitude": "27",
+            "longtitude": "30"
+        },
+        {
+            "country": "El Salvador",
+            "happiness_score2020": "6.34829998",
+            "gpd_per_capita2020": "0.748940408",
+            "social_support2020": "1.149397612",
+            "healthy_life_expectancy2020": "0.752730012",
+            "freedom_to_make_life_choices2020": "0.524043918",
+            "latitude": "13.8333",
+            "longtitude": "-88.9167"
+        },
+        {
+            "country": "Estonia",
+            "happiness_score2020": "6.021800041",
+            "gpd_per_capita2020": "1.192441225",
+            "social_support2020": "1.453232527",
+            "healthy_life_expectancy2020": "0.842615008",
+            "freedom_to_make_life_choices2020": "0.576664805",
+            "latitude": "59",
+            "longtitude": "26"
+        },
+        {
+            "country": "Ethiopia",
+            "happiness_score2020": "4.186200142",
+            "gpd_per_capita2020": "0.315125644",
+            "social_support2020": "1.001103282",
+            "healthy_life_expectancy2020": "0.483846247",
+            "freedom_to_make_life_choices2020": "0.41256687",
+            "latitude": "8",
+            "longtitude": "38"
+        },
+        {
+            "country": "Finland",
+            "happiness_score2020": "7.808700085",
+            "gpd_per_capita2020": "1.285189509",
+            "social_support2020": "1.499525905",
+            "healthy_life_expectancy2020": "0.961271405",
+            "freedom_to_make_life_choices2020": "0.66231674",
+            "latitude": "64",
+            "longtitude": "26"
+        },
+        {
+            "country": "France",
+            "happiness_score2020": "6.663799763",
+            "gpd_per_capita2020": "1.268129349",
+            "social_support2020": "1.458839178",
+            "healthy_life_expectancy2020": "1.029714227",
+            "freedom_to_make_life_choices2020": "0.514050901",
+            "latitude": "46",
+            "longtitude": "2"
+        },
+        {
+            "country": "Gabon",
+            "happiness_score2020": "4.829299927",
+            "gpd_per_capita2020": "0.988044381",
+            "social_support2020": "1.10639751",
+            "healthy_life_expectancy2020": "0.522574842",
+            "freedom_to_make_life_choices2020": "0.369459897",
+            "latitude": "-1",
+            "longtitude": "11.75"
+        },
+        {
+            "country": "Gambia",
+            "happiness_score2020": "4.750599861",
+            "gpd_per_capita2020": "0.256990552",
+            "social_support2020": "0.882678688",
+            "healthy_life_expectancy2020": "0.353247881",
+            "freedom_to_make_life_choices2020": "0.403419524",
+            "latitude": "13.4667",
+            "longtitude": "-16.5667"
+        },
+        {
+            "country": "Georgia",
+            "happiness_score2020": "4.672599792",
+            "gpd_per_capita2020": "0.847198069",
+            "social_support2020": "0.7311939",
+            "healthy_life_expectancy2020": "0.694657624",
+            "freedom_to_make_life_choices2020": "0.485494107",
+            "latitude": "42",
+            "longtitude": "43.5"
+        },
+        {
+            "country": "Germany",
+            "happiness_score2020": "7.075799942",
+            "gpd_per_capita2020": "1.314184546",
+            "social_support2020": "1.368543744",
+            "healthy_life_expectancy2020": "0.972114801",
+            "freedom_to_make_life_choices2020": "0.564274132",
+            "latitude": "51",
+            "longtitude": "9"
+        },
+        {
+            "country": "Ghana",
+            "happiness_score2020": "5.147999763",
+            "gpd_per_capita2020": "0.575862467",
+            "social_support2020": "0.96636796",
+            "healthy_life_expectancy2020": "0.432162255",
+            "freedom_to_make_life_choices2020": "0.477290064",
+            "latitude": "8",
+            "longtitude": "-2"
+        },
+        {
+            "country": "Greece",
+            "happiness_score2020": "5.514999866",
+            "gpd_per_capita2020": "1.128070116",
+            "social_support2020": "1.168973565",
+            "healthy_life_expectancy2020": "0.979431748",
+            "freedom_to_make_life_choices2020": "0.173516348",
+            "latitude": "39",
+            "longtitude": "22"
+        },
+        {
+            "country": "Guatemala",
+            "happiness_score2020": "6.398900032",
+            "gpd_per_capita2020": "0.753815711",
+            "social_support2020": "1.174267054",
+            "healthy_life_expectancy2020": "0.705952585",
+            "freedom_to_make_life_choices2020": "0.613146722",
+            "latitude": "15.5",
+            "longtitude": "-90.25"
+        },
+        {
+            "country": "Guinea",
+            "happiness_score2020": "4.949299812",
+            "gpd_per_capita2020": "0.390007734",
+            "social_support2020": "0.75136596",
+            "healthy_life_expectancy2020": "0.333655238",
+            "freedom_to_make_life_choices2020": "0.371878058",
+            "latitude": "11",
+            "longtitude": "-10"
+        },
+        {
+            "country": "Haiti",
+            "happiness_score2020": "3.720799923",
+            "gpd_per_capita2020": "0.284734428",
+            "social_support2020": "0.646671355",
+            "healthy_life_expectancy2020": "0.37436673",
+            "freedom_to_make_life_choices2020": "0.169297516",
+            "latitude": "19",
+            "longtitude": "-72.4167"
+        },
+        {
+            "country": "Honduras",
+            "happiness_score2020": "5.953199863",
+            "gpd_per_capita2020": "0.598763585",
+            "social_support2020": "1.186664104",
+            "healthy_life_expectancy2020": "0.791989982",
+            "freedom_to_make_life_choices2020": "0.568148077",
+            "latitude": "15",
+            "longtitude": "-86.5"
+        },
+        {
+            "country": "Hungary",
+            "happiness_score2020": "6.000400066",
+            "gpd_per_capita2020": "1.164307117",
+            "social_support2020": "1.423009396",
+            "healthy_life_expectancy2020": "0.806793869",
+            "freedom_to_make_life_choices2020": "0.386401802",
+            "latitude": "47",
+            "longtitude": "20"
+        },
+        {
+            "country": "Iceland",
+            "happiness_score2020": "7.504499912",
+            "gpd_per_capita2020": "1.326501608",
+            "social_support2020": "1.547567487",
+            "healthy_life_expectancy2020": "1.000843406",
+            "freedom_to_make_life_choices2020": "0.661980748",
+            "latitude": "65",
+            "longtitude": "-18"
+        },
+        {
+            "country": "India",
+            "happiness_score2020": "3.573299885",
+            "gpd_per_capita2020": "0.730576158",
+            "social_support2020": "0.644198656",
+            "healthy_life_expectancy2020": "0.54057014",
+            "freedom_to_make_life_choices2020": "0.581142247",
+            "latitude": "20",
+            "longtitude": "77"
+        },
+        {
+            "country": "Indonesia",
+            "happiness_score2020": "5.285600185",
+            "gpd_per_capita2020": "0.891720712",
+            "social_support2020": "1.154800892",
+            "healthy_life_expectancy2020": "0.610437036",
+            "freedom_to_make_life_choices2020": "0.568161428",
+            "latitude": "-5",
+            "longtitude": "120"
+        },
+        {
+            "country": "Iraq",
+            "happiness_score2020": "4.784800053",
+            "gpd_per_capita2020": "0.982018709",
+            "social_support2020": "1.011466622",
+            "healthy_life_expectancy2020": "0.529350698",
+            "freedom_to_make_life_choices2020": "0.283588052",
+            "latitude": "33",
+            "longtitude": "44"
+        },
+        {
+            "country": "Ireland",
+            "happiness_score2020": "7.093699932",
+            "gpd_per_capita2020": "1.446886778",
+            "social_support2020": "1.470596433",
+            "healthy_life_expectancy2020": "0.975670695",
+            "freedom_to_make_life_choices2020": "0.587779939",
+            "latitude": "53",
+            "longtitude": "-8"
+        },
+        {
+            "country": "Israel",
+            "happiness_score2020": "7.128600121",
+            "gpd_per_capita2020": "1.216463685",
+            "social_support2020": "1.403256774",
+            "healthy_life_expectancy2020": "1.008052945",
+            "freedom_to_make_life_choices2020": "0.420699477",
+            "latitude": "31.5",
+            "longtitude": "34.75"
+        },
+        {
+            "country": "Italy",
+            "happiness_score2020": "6.38740015",
+            "gpd_per_capita2020": "1.236396074",
+            "social_support2020": "1.347296",
+            "healthy_life_expectancy2020": "1.022504926",
+            "freedom_to_make_life_choices2020": "0.321305573",
+            "latitude": "42.8333",
+            "longtitude": "12.8333"
+        },
+        {
+            "country": "Jamaica",
+            "happiness_score2020": "5.889800072",
+            "gpd_per_capita2020": "0.779058397",
+            "social_support2020": "1.408289194",
+            "healthy_life_expectancy2020": "0.788434088",
+            "freedom_to_make_life_choices2020": "0.553124607",
+            "latitude": "18.25",
+            "longtitude": "-77.5"
+        },
+        {
+            "country": "Japan",
+            "happiness_score2020": "5.870800018",
+            "gpd_per_capita2020": "1.26672411",
+            "social_support2020": "1.332338691",
+            "healthy_life_expectancy2020": "1.072881341",
+            "freedom_to_make_life_choices2020": "0.495465875",
+            "latitude": "36",
+            "longtitude": "138"
+        },
+        {
+            "country": "Jordan",
+            "happiness_score2020": "4.633399963",
+            "gpd_per_capita2020": "0.785179198",
+            "social_support2020": "1.140118599",
+            "healthy_life_expectancy2020": "0.777624726",
+            "freedom_to_make_life_choices2020": "0.424855083",
+            "latitude": "31",
+            "longtitude": "36"
+        },
+        {
+            "country": "Kazakhstan",
+            "happiness_score2020": "6.057899952",
+            "gpd_per_capita2020": "1.122594237",
+            "social_support2020": "1.453267694",
+            "healthy_life_expectancy2020": "0.698788941",
+            "freedom_to_make_life_choices2020": "0.497432142",
+            "latitude": "48",
+            "longtitude": "68"
+        },
+        {
+            "country": "Kenya",
+            "happiness_score2020": "4.583000183",
+            "gpd_per_capita2020": "0.476413399",
+            "social_support2020": "0.905077755",
+            "healthy_life_expectancy2020": "0.536312759",
+            "freedom_to_make_life_choices2020": "0.519180536",
+            "latitude": "1",
+            "longtitude": "38"
+        },
+        {
+            "country": "Kuwait",
+            "happiness_score2020": "6.102099895",
+            "gpd_per_capita2020": "1.424833655",
+            "social_support2020": "1.244779825",
+            "healthy_life_expectancy2020": "0.776468933",
+            "freedom_to_make_life_choices2020": "0.570261419",
+            "latitude": "29.3375",
+            "longtitude": "47.6581"
+        },
+        {
+            "country": "Kyrgyzstan",
+            "happiness_score2020": "5.541500092",
+            "gpd_per_capita2020": "0.513180971",
+            "social_support2020": "1.341036677",
+            "healthy_life_expectancy2020": "0.680645883",
+            "freedom_to_make_life_choices2020": "0.614617765",
+            "latitude": "41",
+            "longtitude": "75"
+        },
+        {
+            "country": "Latvia",
+            "happiness_score2020": "5.949999809",
+            "gpd_per_capita2020": "1.14139545",
+            "social_support2020": "1.414398789",
+            "healthy_life_expectancy2020": "0.777902424",
+            "freedom_to_make_life_choices2020": "0.329198807",
+            "latitude": "57",
+            "longtitude": "25"
+        },
+        {
+            "country": "Lebanon",
+            "happiness_score2020": "4.771500111",
+            "gpd_per_capita2020": "0.889232516",
+            "social_support2020": "1.19249332",
+            "healthy_life_expectancy2020": "0.788671136",
+            "freedom_to_make_life_choices2020": "0.18551667",
+            "latitude": "33.8333",
+            "longtitude": "35.8333"
+        },
+        {
+            "country": "Lesotho",
+            "happiness_score2020": "3.652800083",
+            "gpd_per_capita2020": "0.45493874",
+            "social_support2020": "1.088940024",
+            "healthy_life_expectancy2020": "0.100934811",
+            "freedom_to_make_life_choices2020": "0.409367532",
+            "latitude": "-29.5",
+            "longtitude": "28.5"
+        },
+        {
+            "country": "Liberia",
+            "happiness_score2020": "4.557899952",
+            "gpd_per_capita2020": "0.174103007",
+            "social_support2020": "0.920733929",
+            "healthy_life_expectancy2020": "0.392284274",
+            "freedom_to_make_life_choices2020": "0.405943096",
+            "latitude": "6.5",
+            "longtitude": "-9.5"
+        },
+        {
+            "country": "Lithuania",
+            "happiness_score2020": "6.215499878",
+            "gpd_per_capita2020": "1.193559647",
+            "social_support2020": "1.432865739",
+            "healthy_life_expectancy2020": "0.795421183",
+            "freedom_to_make_life_choices2020": "0.42046079",
+            "latitude": "56",
+            "longtitude": "24"
+        },
+        {
+            "country": "Luxembourg",
+            "happiness_score2020": "7.237500191",
+            "gpd_per_capita2020": "1.536676049",
+            "social_support2020": "1.387528419",
+            "healthy_life_expectancy2020": "0.986442685",
+            "freedom_to_make_life_choices2020": "0.610137045",
+            "latitude": "49.75",
+            "longtitude": "6.1667"
+        },
+        {
+            "country": "Madagascar",
+            "happiness_score2020": "4.165599823",
+            "gpd_per_capita2020": "0.244553208",
+            "social_support2020": "0.823694348",
+            "healthy_life_expectancy2020": "0.500617027",
+            "freedom_to_make_life_choices2020": "0.192967549",
+            "latitude": "-20",
+            "longtitude": "47"
+        },
+        {
+            "country": "Malawi",
+            "happiness_score2020": "3.538000107",
+            "gpd_per_capita2020": "0.176534727",
+            "social_support2020": "0.53036809",
+            "healthy_life_expectancy2020": "0.446163297",
+            "freedom_to_make_life_choices2020": "0.487389833",
+            "latitude": "-13.5",
+            "longtitude": "34"
+        },
+        {
+            "country": "Malaysia",
+            "happiness_score2020": "5.384300232",
+            "gpd_per_capita2020": "1.168421626",
+            "social_support2020": "1.17400229",
+            "healthy_life_expectancy2020": "0.788511872",
+            "freedom_to_make_life_choices2020": "0.596941531",
+            "latitude": "2.5",
+            "longtitude": "112.5"
+        },
+        {
+            "country": "Maldives",
+            "happiness_score2020": "5.197599888",
+            "gpd_per_capita2020": "0.937864304",
+            "social_support2020": "1.402287602",
+            "healthy_life_expectancy2020": "0.914439559",
+            "freedom_to_make_life_choices2020": "0.548203647",
+            "latitude": "3.25",
+            "longtitude": "73"
+        },
+        {
+            "country": "Mali",
+            "happiness_score2020": "4.729300022",
+            "gpd_per_capita2020": "0.352462649",
+            "social_support2020": "0.97314173",
+            "healthy_life_expectancy2020": "0.234981522",
+            "freedom_to_make_life_choices2020": "0.377534449",
+            "latitude": "17",
+            "longtitude": "-4"
+        },
+        {
+            "country": "Malta",
+            "happiness_score2020": "6.772799969",
+            "gpd_per_capita2020": "1.252513289",
+            "social_support2020": "1.442956924",
+            "healthy_life_expectancy2020": "0.972042024",
+            "freedom_to_make_life_choices2020": "0.633239031",
+            "latitude": "35.8333",
+            "longtitude": "14.5833"
+        },
+        {
+            "country": "Mauritania",
+            "happiness_score2020": "4.374599934",
+            "gpd_per_capita2020": "0.539684892",
+            "social_support2020": "1.113323569",
+            "healthy_life_expectancy2020": "0.425184816",
+            "freedom_to_make_life_choices2020": "0.185714483",
+            "latitude": "20",
+            "longtitude": "-12"
+        },
+        {
+            "country": "Mauritius",
+            "happiness_score2020": "6.101299763",
+            "gpd_per_capita2020": "1.07366395",
+            "social_support2020": "1.395666838",
+            "healthy_life_expectancy2020": "0.763389409",
+            "freedom_to_make_life_choices2020": "0.590838134",
+            "latitude": "-20.2833",
+            "longtitude": "57.55"
+        },
+        {
+            "country": "Mexico",
+            "happiness_score2020": "6.465000153",
+            "gpd_per_capita2020": "1.024387479",
+            "social_support2020": "1.226333499",
+            "healthy_life_expectancy2020": "0.831601024",
+            "freedom_to_make_life_choices2020": "0.553892553",
+            "latitude": "23",
+            "longtitude": "-102"
+        },
+        {
+            "country": "Mongolia",
+            "happiness_score2020": "5.456200123",
+            "gpd_per_capita2020": "0.904872775",
+            "social_support2020": "1.458930612",
+            "healthy_life_expectancy2020": "0.615788162",
+            "freedom_to_make_life_choices2020": "0.355703115",
+            "latitude": "46",
+            "longtitude": "105"
+        },
+        {
+            "country": "Montenegro",
+            "happiness_score2020": "5.54610014",
+            "gpd_per_capita2020": "1.010150075",
+            "social_support2020": "1.265657902",
+            "healthy_life_expectancy2020": "0.839028895",
+            "freedom_to_make_life_choices2020": "0.303223848",
+            "latitude": "42",
+            "longtitude": "19"
+        },
+        {
+            "country": "Morocco",
+            "happiness_score2020": "5.094799995",
+            "gpd_per_capita2020": "0.75862211",
+            "social_support2020": "0.645208478",
+            "healthy_life_expectancy2020": "0.745096922",
+            "freedom_to_make_life_choices2020": "0.450054139",
+            "latitude": "32",
+            "longtitude": "-5"
+        },
+        {
+            "country": "Mozambique",
+            "happiness_score2020": "4.623600006",
+            "gpd_per_capita2020": "0.178741366",
+            "social_support2020": "0.955202878",
+            "healthy_life_expectancy2020": "0.324223638",
+            "freedom_to_make_life_choices2020": "0.56077534",
+            "latitude": "-18.25",
+            "longtitude": "35"
+        },
+        {
+            "country": "Myanmar",
+            "happiness_score2020": "4.308000088",
+            "gpd_per_capita2020": "0.67809093",
+            "social_support2020": "1.098178267",
+            "healthy_life_expectancy2020": "0.495443076",
+            "freedom_to_make_life_choices2020": "0.597478867",
+            "latitude": "22",
+            "longtitude": "98"
+        },
+        {
+            "country": "Namibia",
+            "happiness_score2020": "4.571100235",
+            "gpd_per_capita2020": "0.84008199",
+            "social_support2020": "1.245738149",
+            "healthy_life_expectancy2020": "0.40687117",
+            "freedom_to_make_life_choices2020": "0.444598973",
+            "latitude": "-22",
+            "longtitude": "17"
+        },
+        {
+            "country": "Nepal",
+            "happiness_score2020": "5.137199879",
+            "gpd_per_capita2020": "0.444050372",
+            "social_support2020": "1.100789309",
+            "healthy_life_expectancy2020": "0.66887939",
+            "freedom_to_make_life_choices2020": "0.480608255",
+            "latitude": "28",
+            "longtitude": "84"
+        },
+        {
+            "country": "Netherlands",
+            "happiness_score2020": "7.448900223",
+            "gpd_per_capita2020": "1.338946342",
+            "social_support2020": "1.463645935",
+            "healthy_life_expectancy2020": "0.975675344",
+            "freedom_to_make_life_choices2020": "0.61362648",
+            "latitude": "52.5",
+            "longtitude": "5.75"
+        },
+        {
+            "country": "New Zealand",
+            "happiness_score2020": "7.299600124",
+            "gpd_per_capita2020": "1.242317915",
+            "social_support2020": "1.48721838",
+            "healthy_life_expectancy2020": "1.008138299",
+            "freedom_to_make_life_choices2020": "0.646789908",
+            "latitude": "-41",
+            "longtitude": "174"
+        },
+        {
+            "country": "Nicaragua",
+            "happiness_score2020": "6.13710022",
+            "gpd_per_capita2020": "0.620033145",
+            "social_support2020": "1.27081275",
+            "healthy_life_expectancy2020": "0.803093255",
+            "freedom_to_make_life_choices2020": "0.560117304",
+            "latitude": "13",
+            "longtitude": "-85"
+        },
+        {
+            "country": "Niger",
+            "happiness_score2020": "4.909599781",
+            "gpd_per_capita2020": "0.108330332",
+            "social_support2020": "0.703800142",
+            "healthy_life_expectancy2020": "0.298816353",
+            "freedom_to_make_life_choices2020": "0.435311615",
+            "latitude": "16",
+            "longtitude": "8"
+        },
+        {
+            "country": "Nigeria",
+            "happiness_score2020": "4.724100113",
+            "gpd_per_capita2020": "0.645901859",
+            "social_support2020": "0.986717939",
+            "healthy_life_expectancy2020": "0.167835936",
+            "freedom_to_make_life_choices2020": "0.435079455",
+            "latitude": "10",
+            "longtitude": "8"
+        },
+        {
+            "country": "Norway",
+            "happiness_score2020": "7.487999916",
+            "gpd_per_capita2020": "1.42420733",
+            "social_support2020": "1.495172501",
+            "healthy_life_expectancy2020": "1.008071899",
+            "freedom_to_make_life_choices2020": "0.670200884",
+            "latitude": "62",
+            "longtitude": "10"
+        },
+        {
+            "country": "Pakistan",
+            "happiness_score2020": "5.69329977",
+            "gpd_per_capita2020": "0.616799474",
+            "social_support2020": "0.872979581",
+            "healthy_life_expectancy2020": "0.469933242",
+            "freedom_to_make_life_choices2020": "0.405421734",
+            "latitude": "30",
+            "longtitude": "70"
+        },
+        {
+            "country": "Panama",
+            "happiness_score2020": "6.304800034",
+            "gpd_per_capita2020": "1.097667813",
+            "social_support2020": "1.376149297",
+            "healthy_life_expectancy2020": "0.878546536",
+            "freedom_to_make_life_choices2020": "0.57984978",
+            "latitude": "9",
+            "longtitude": "-80"
+        },
+        {
+            "country": "Paraguay",
+            "happiness_score2020": "5.692100048",
+            "gpd_per_capita2020": "0.897990823",
+            "social_support2020": "1.36819756",
+            "healthy_life_expectancy2020": "0.735869646",
+            "freedom_to_make_life_choices2020": "0.586510062",
+            "latitude": "-23",
+            "longtitude": "-58"
+        },
+        {
+            "country": "Peru",
+            "happiness_score2020": "5.796800137",
+            "gpd_per_capita2020": "0.91854918",
+            "social_support2020": "1.208405972",
+            "healthy_life_expectancy2020": "0.824444175",
+            "freedom_to_make_life_choices2020": "0.513210058",
+            "latitude": "-10",
+            "longtitude": "-76"
+        },
+        {
+            "country": "Philippines",
+            "happiness_score2020": "6.006000042",
+            "gpd_per_capita2020": "0.775120676",
+            "social_support2020": "1.245381713",
+            "healthy_life_expectancy2020": "0.602189481",
+            "freedom_to_make_life_choices2020": "0.621915162",
+            "latitude": "13",
+            "longtitude": "122"
+        },
+        {
+            "country": "Poland",
+            "happiness_score2020": "6.186299801",
+            "gpd_per_capita2020": "1.16922915",
+            "social_support2020": "1.310399771",
+            "healthy_life_expectancy2020": "0.868038476",
+            "freedom_to_make_life_choices2020": "0.557903528",
+            "latitude": "52",
+            "longtitude": "20"
+        },
+        {
+            "country": "Portugal",
+            "happiness_score2020": "5.910900116",
+            "gpd_per_capita2020": "1.168800831",
+            "social_support2020": "1.339530349",
+            "healthy_life_expectancy2020": "0.979315281",
+            "freedom_to_make_life_choices2020": "0.589895189",
+            "latitude": "39.5",
+            "longtitude": "-8"
+        },
+        {
+            "country": "Romania",
+            "happiness_score2020": "6.123700142",
+            "gpd_per_capita2020": "1.120401621",
+            "social_support2020": "1.1944381",
+            "healthy_life_expectancy2020": "0.79229486",
+            "freedom_to_make_life_choices2020": "0.534852326",
+            "latitude": "46",
+            "longtitude": "25"
+        },
+        {
+            "country": "Rwanda",
+            "happiness_score2020": "3.312299967",
+            "gpd_per_capita2020": "0.343242675",
+            "social_support2020": "0.522876322",
+            "healthy_life_expectancy2020": "0.572383285",
+            "freedom_to_make_life_choices2020": "0.604087889",
+            "latitude": "-2",
+            "longtitude": "30"
+        },
+        {
+            "country": "Saudi Arabia",
+            "happiness_score2020": "6.406499863",
+            "gpd_per_capita2020": "1.334328532",
+            "social_support2020": "1.309950113",
+            "healthy_life_expectancy2020": "0.759818137",
+            "freedom_to_make_life_choices2020": "0.548477471",
+            "latitude": "25",
+            "longtitude": "45"
+        },
+        {
+            "country": "Senegal",
+            "happiness_score2020": "4.980800152",
+            "gpd_per_capita2020": "0.504061818",
+            "social_support2020": "0.95459342",
+            "healthy_life_expectancy2020": "0.518391907",
+            "freedom_to_make_life_choices2020": "0.352400899",
+            "latitude": "14",
+            "longtitude": "-14"
+        },
+        {
+            "country": "Serbia",
+            "happiness_score2020": "5.77820015",
+            "gpd_per_capita2020": "0.988181829",
+            "social_support2020": "1.327448964",
+            "healthy_life_expectancy2020": "0.828403294",
+            "freedom_to_make_life_choices2020": "0.395428419",
+            "latitude": "44",
+            "longtitude": "21"
+        },
+        {
+            "country": "Sierra Leone",
+            "happiness_score2020": "3.926399946",
+            "gpd_per_capita2020": "0.240560383",
+            "social_support2020": "0.747984946",
+            "healthy_life_expectancy2020": "0.203953966",
+            "freedom_to_make_life_choices2020": "0.382027686",
+            "latitude": "8.5",
+            "longtitude": "-11.5"
+        },
+        {
+            "country": "Singapore",
+            "happiness_score2020": "6.377099991",
+            "gpd_per_capita2020": "1.519580126",
+            "social_support2020": "1.39545691",
+            "healthy_life_expectancy2020": "1.137814283",
+            "freedom_to_make_life_choices2020": "0.635317206",
+            "latitude": "1.3667",
+            "longtitude": "103.8"
+        },
+        {
+            "country": "Slovakia",
+            "happiness_score2020": "6.280600071",
+            "gpd_per_capita2020": "1.194837689",
+            "social_support2020": "1.424331188",
+            "healthy_life_expectancy2020": "0.853465259",
+            "freedom_to_make_life_choices2020": "0.423542529",
+            "latitude": "48.6667",
+            "longtitude": "19.5"
+        },
+        {
+            "country": "Slovenia",
+            "happiness_score2020": "6.363399982",
+            "gpd_per_capita2020": "1.208652496",
+            "social_support2020": "1.464677691",
+            "healthy_life_expectancy2020": "0.932548046",
+            "freedom_to_make_life_choices2020": "0.646700144",
+            "latitude": "46",
+            "longtitude": "15"
+        },
+        {
+            "country": "South Africa",
+            "happiness_score2020": "4.814099789",
+            "gpd_per_capita2020": "0.902140439",
+            "social_support2020": "1.259086251",
+            "healthy_life_expectancy2020": "0.407034069",
+            "freedom_to_make_life_choices2020": "0.43478182",
+            "latitude": "-29",
+            "longtitude": "24"
+        },
+        {
+            "country": "South Sudan",
+            "happiness_score2020": "2.816600084",
+            "gpd_per_capita2020": "0.289082974",
+            "social_support2020": "0.553278506",
+            "healthy_life_expectancy2020": "0.208809033",
+            "freedom_to_make_life_choices2020": "0.065609254",
+            "latitude": "8",
+            "longtitude": "30"
+        },
+        {
+            "country": "Spain",
+            "happiness_score2020": "6.400899887",
+            "gpd_per_capita2020": "1.230535269",
+            "social_support2020": "1.421099186",
+            "healthy_life_expectancy2020": "1.051343083",
+            "freedom_to_make_life_choices2020": "0.425983816",
+            "latitude": "40",
+            "longtitude": "-4"
+        },
+        {
+            "country": "Sri Lanka",
+            "happiness_score2020": "4.327000141",
+            "gpd_per_capita2020": "0.897986948",
+            "social_support2020": "1.19494009",
+            "healthy_life_expectancy2020": "0.792036712",
+            "freedom_to_make_life_choices2020": "0.528632462",
+            "latitude": "7",
+            "longtitude": "81"
+        },
+        {
+            "country": "Swaziland",
+            "happiness_score2020": "4.308100224",
+            "gpd_per_capita2020": "0.827539742",
+            "social_support2020": "1.064835191",
+            "healthy_life_expectancy2020": "0.215585828",
+            "freedom_to_make_life_choices2020": "0.299935788",
+            "latitude": "-26.5",
+            "longtitude": "31.5"
+        },
+        {
+            "country": "Sweden",
+            "happiness_score2020": "7.353499889",
+            "gpd_per_capita2020": "1.322235227",
+            "social_support2020": "1.433347702",
+            "healthy_life_expectancy2020": "0.986470461",
+            "freedom_to_make_life_choices2020": "0.650297701",
+            "latitude": "62",
+            "longtitude": "15"
+        },
+        {
+            "country": "Switzerland",
+            "happiness_score2020": "7.559899807",
+            "gpd_per_capita2020": "1.39077425",
+            "social_support2020": "1.472403407",
+            "healthy_life_expectancy2020": "1.040533185",
+            "freedom_to_make_life_choices2020": "0.62895447",
+            "latitude": "47",
+            "longtitude": "8"
+        },
+        {
+            "country": "Tajikistan",
+            "happiness_score2020": "5.555699825",
+            "gpd_per_capita2020": "0.474874616",
+            "social_support2020": "1.218377709",
+            "healthy_life_expectancy2020": "0.680594802",
+            "freedom_to_make_life_choices2020": "0.521141171",
+            "latitude": "39",
+            "longtitude": "71"
+        },
+        {
+            "country": "Thailand",
+            "happiness_score2020": "5.998799801",
+            "gpd_per_capita2020": "1.007029295",
+            "social_support2020": "1.347519517",
+            "healthy_life_expectancy2020": "0.793855846",
+            "freedom_to_make_life_choices2020": "0.609449804",
+            "latitude": "15",
+            "longtitude": "100"
+        },
+        {
+            "country": "Togo",
+            "happiness_score2020": "4.187200069",
+            "gpd_per_capita2020": "0.268116266",
+            "social_support2020": "0.547622859",
+            "healthy_life_expectancy2020": "0.342731178",
+            "freedom_to_make_life_choices2020": "0.303539038",
+            "latitude": "8",
+            "longtitude": "1.1667"
+        },
+        {
+            "country": "Trinidad and Tobago",
+            "happiness_score2020": "6.191899776",
+            "gpd_per_capita2020": "1.167641521",
+            "social_support2020": "1.407326221",
+            "healthy_life_expectancy2020": "0.658828557",
+            "freedom_to_make_life_choices2020": "0.55293113",
+            "latitude": "11",
+            "longtitude": "-61"
+        },
+        {
+            "country": "Tunisia",
+            "happiness_score2020": "4.392199993",
+            "gpd_per_capita2020": "0.874742687",
+            "social_support2020": "0.872167706",
+            "healthy_life_expectancy2020": "0.781156719",
+            "freedom_to_make_life_choices2020": "0.235860556",
+            "latitude": "34",
+            "longtitude": "9"
+        },
+        {
+            "country": "Turkey",
+            "happiness_score2020": "5.131800175",
+            "gpd_per_capita2020": "1.127169251",
+            "social_support2020": "1.197159171",
+            "healthy_life_expectancy2020": "0.781335294",
+            "freedom_to_make_life_choices2020": "0.25440076",
+            "latitude": "39",
+            "longtitude": "35"
+        },
+        {
+            "country": "Turkmenistan",
+            "happiness_score2020": "5.119100094",
+            "gpd_per_capita2020": "1.008963585",
+            "social_support2020": "1.510476947",
+            "healthy_life_expectancy2020": "0.612448037",
+            "freedom_to_make_life_choices2020": "0.515236676",
+            "latitude": "40",
+            "longtitude": "60"
+        },
+        {
+            "country": "Uganda",
+            "happiness_score2020": "4.43200016",
+            "gpd_per_capita2020": "0.312337428",
+            "social_support2020": "1.052327394",
+            "healthy_life_expectancy2020": "0.378311664",
+            "freedom_to_make_life_choices2020": "0.401682556",
+            "latitude": "1",
+            "longtitude": "32"
+        },
+        {
+            "country": "Ukraine",
+            "happiness_score2020": "4.56069994",
+            "gpd_per_capita2020": "0.780434608",
+            "social_support2020": "1.321316481",
+            "healthy_life_expectancy2020": "0.698674381",
+            "freedom_to_make_life_choices2020": "0.319423705",
+            "latitude": "49",
+            "longtitude": "32"
+        },
+        {
+            "country": "United Arab Emirates",
+            "happiness_score2020": "6.790800095",
+            "gpd_per_capita2020": "1.431086421",
+            "social_support2020": "1.251170993",
+            "healthy_life_expectancy2020": "0.787814438",
+            "freedom_to_make_life_choices2020": "0.652936101",
+            "latitude": "24",
+            "longtitude": "54"
+        },
+        {
+            "country": "United Kingdom",
+            "happiness_score2020": "7.164500237",
+            "gpd_per_capita2020": "1.273061037",
+            "social_support2020": "1.457844973",
+            "healthy_life_expectancy2020": "0.97570008",
+            "freedom_to_make_life_choices2020": "0.525168657",
+            "latitude": "54",
+            "longtitude": "-2"
+        },
+        {
+            "country": "United States",
+            "happiness_score2020": "6.939599991",
+            "gpd_per_capita2020": "1.37398684",
+            "social_support2020": "1.404786706",
+            "healthy_life_expectancy2020": "0.831618011",
+            "freedom_to_make_life_choices2020": "0.534608245",
+            "latitude": "38",
+            "longtitude": "-97"
+        },
+        {
+            "country": "Uruguay",
+            "happiness_score2020": "6.440100193",
+            "gpd_per_capita2020": "1.071000457",
+            "social_support2020": "1.425081134",
+            "healthy_life_expectancy2020": "0.856928885",
+            "freedom_to_make_life_choices2020": "0.59426707",
+            "latitude": "-33",
+            "longtitude": "-56"
+        },
+        {
+            "country": "Uzbekistan",
+            "happiness_score2020": "6.257599831",
+            "gpd_per_capita2020": "0.696652949",
+            "social_support2020": "1.434020042",
+            "healthy_life_expectancy2020": "0.716703713",
+            "freedom_to_make_life_choices2020": "0.693270326",
+            "latitude": "41",
+            "longtitude": "64"
+        },
+        {
+            "country": "Yemen",
+            "happiness_score2020": "3.527400017",
+            "gpd_per_capita2020": "0.392701775",
+            "social_support2020": "1.177477121",
+            "healthy_life_expectancy2020": "0.41500017",
+            "freedom_to_make_life_choices2020": "0.243721485",
+            "latitude": "15",
+            "longtitude": "48"
+        },
+        {
+            "country": "Zambia",
+            "happiness_score2020": "3.759399891",
+            "gpd_per_capita2020": "0.536833763",
+            "social_support2020": "0.896037281",
+            "healthy_life_expectancy2020": "0.36359334",
+            "freedom_to_make_life_choices2020": "0.49131754",
+            "latitude": "-15",
+            "longtitude": "30"
+        },
+        {
+            "country": "Zimbabwe",
+            "happiness_score2020": "3.299200058",
+            "gpd_per_capita2020": "0.425564021",
+            "social_support2020": "1.047835231",
+            "healthy_life_expectancy2020": "0.375037611",
+            "freedom_to_make_life_choices2020": "0.37740472",
+            "latitude": "-20",
+            "longtitude": "30"
+        }
+    ]
+}
