@@ -2,6 +2,7 @@ DROP TABLE year_2022;
 DROP TABLE year_2021;
 DROP TABLE year_2020;
 DROP TABLE year_2019;
+DROP TABLE coordinates;
 
 CREATE TABLE year_2022 (
 	country VARCHAR NOT NULL PRIMARY KEY,
@@ -41,7 +42,14 @@ CREATE TABLE year_2019 (
 	freedom_to_make_life_choices2019 FLOAT	
 );
 
+CREATE TABLE coordinates (
+	country VARCHAR NOT NULL PRIMARY KEY,
+	latitude FLOAT,
+	longtitude FLOAT
+);
+
 Select * from year_2022;
 Select * from year_2021;
 Select * from year_2020;
 Select * from year_2019;
+Select * from coordinates;
