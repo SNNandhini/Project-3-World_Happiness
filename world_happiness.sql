@@ -48,6 +48,32 @@ CREATE TABLE coordinates (
 	longtitude FLOAT
 );
 
+
+SELECT 
+ *
+  FROM year_2019
+   JOIN coordinates
+    USING (country);
+
+SELECT 
+ *
+  FROM year_2020
+   JOIN coordinates
+    USING (country);
+	
+SELECT 
+ *
+  FROM year_2021
+   JOIN coordinates
+    USING (country);
+
+SELECT 
+ *
+  FROM year_2022
+   JOIN coordinates
+    USING (country);
+
+
 Select * from year_2022;
 Select * from year_2021;
 Select * from year_2020;
