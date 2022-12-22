@@ -4,12 +4,13 @@ function generateGauge(countrySelected, yearSelected) {
     // Call the function to identify dataset based on the year selected
     data = yearDataset(yearSelected);
 
+    // Filter the data based on the country selected
     var countryData = data.filter(ctryData => ctryData.country == countrySelected);
 
-    //var happinessScore = `countryData[0].happiness_score${year}`
+    // Extract the happiness score for the country selected
     var score = countryData[0].happiness_score;
 
-    // determine angle for each score segment on the chart
+    // determine the angle for each score segment on the chart
     var angle = (score / 10) * 180;
 
     // Trig to calc meter point
@@ -41,7 +42,7 @@ function generateGauge(countrySelected, yearSelected) {
     // create a trace for the gauge chart
     // type: "pie" is used here as the chart is based on pie concept
     // values: 50% of the pie divided into 10 parts, the remaining 50% (so 10 values in total)
-    // text: the text to be displayed on each part. The unused 50% is assigned wit a blank here
+    // text: the text to be displayed on each part. The unused 50% is assigned with a blank 
     // rotation: the angle to rotate the pie, so the used 50% is at the top. Calculated the degrees that include the used segment and then halved that. ((360*0.5)/2)
     var traceGauge = {
         type: "pie",   
@@ -55,9 +56,6 @@ function generateGauge(countrySelected, yearSelected) {
         textposition: "inside",
         hoverinfo: "none",
         marker: {
-            //colors: ["rgba(240, 236, 220, 0.5)", "rgba(232, 226, 202, .5)", "rgba(210, 206, 145, .5)", 
-            //        "rgba(202, 209, 95, .5)", "rgba(170, 202, 42, .5)", "rgba(110, 154, 22, .5)", 
-            //        "rgba(14, 127, 0, .5)", "rgba(10, 105, 0, .5)", "rgba(14, 127, 0, .5)", "rgba(6, 80, 0, .5)", "white"]
             colors: ["rgba(255, 0, 0, 0.5)", "rgba(255, 102, 0, .5)", "rgba(255, 153, 102, .5)", "rgba(255, 204, 153, .5)", "rgba(255, 255, 102, .5)", "rgba(255, 255, 10, .5)", 
                     "rgba(255, 255, 153, .5)", "rgba(204, 255, 51, .5)", "rgba(153, 204, 0, .5)", "rgba(102, 153, 0, .5)", "white"]
             

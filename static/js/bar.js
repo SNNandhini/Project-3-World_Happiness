@@ -3,15 +3,18 @@ function generateBar(yearSelected) {
     // Call the function to identify dataset based on the year selected
     data = yearDataset(yearSelected);
 
+    // arrays used to store the countries and happiness score values
     let barCountries = [];
     let barHscores = [];
 
+    // Sort the latest (year22) data in the descending order based on the happiness score
     var barOrder = data.sort((a, b) => {
         if (b.happiness_score < a.happiness_score) {
             return -1;
         }
     })
 
+    // arrays above populated with the counties and happiness scores
     barOrder.forEach((country) => {
         let countryStr = country.country
         barCountries.push(countryStr);

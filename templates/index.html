@@ -13,6 +13,7 @@
 </head>
 
 <body>
+  <!-- Input files from Python Flask API -->
   <input type='hidden' id='year_2022' data-year2022='{{year_2022}}' />
   <input type='hidden' id='year_2021' data-year2021='{{year_2021}}' />
   <input type='hidden' id='year_2020' data-year2020='{{year_2020}}' />
@@ -29,12 +30,7 @@
           <div class="row">
             <div class="col-md-6">
               <h5>Year:</h5>
-              <select id="selYear" onchange="yearChanged(this.value)">
-                <!-- <option value="yr22">2022</option>
-                <option value="yr21">2021</option>
-                <option value="yr20">2020</option>
-                <option value="yr19">2019</option> -->
-              </select>
+              <select id="selYear" onchange="yearChanged(this.value)"></select>
             </div>
           
             <div class="col-md-6">  
@@ -77,15 +73,16 @@
     </div>
   </div>
 
-  <!-- <script src="https://d3js.org/d3.v5.min.js"></script> -->
+  <!-- Plotly Javascript file -->
   <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>  
+
+  <!-- Javascript files -->
   <script src="{{ url_for('static', filename='js/gauge.js') }}"></script>
   <script src="{{ url_for('static', filename='js/bubble.js') }}"></script>
   <script src="{{ url_for('static', filename='js/bar.js') }}"></script>
   <script src="{{ url_for('static', filename='js/line.js') }}"></script>
   <script src="{{ url_for('static', filename='js/app.js') }}"></script>
-  <!-- <script src="{{ url_for('static', filename='js/gauge.js') }}"></script> -->
-  
+    
 </body>
 
 </html>
