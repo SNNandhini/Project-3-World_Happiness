@@ -9,7 +9,7 @@ app = Flask(__name__)
 # setup PostgreSQL connection
 def get_db_connection():
 
-    # Create a connection string for the Employee Database using the parameters from .env file
+    # Create a connection string for World Happiness Database using the parameters from .env file
     load_dotenv()
 
     protocol = os.getenv("PROTOCOL")
