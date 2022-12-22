@@ -1,19 +1,21 @@
+// Function to create the bubble chart
 function generateBubble(yearSelected) {
 
     // Call the function to identify dataset based on the year selected
     data = yearDataset(yearSelected);
 
+    // arrays used to store the countries and happiness score values
     let countries = [];
     let hscores = [];
 
-    //var order = _.sortBy(require('./country'), function (el) { return el.country, el.happiness_score2022 });
+    // Sort the data in ascending order based on the country names
     var order = data.sort((a, b) => {
         if (a.country < b.country) {
             return -1;
         }
     })
-    console.log("order:", order)
 
+    // arrays above populated with the counties and happiness scores
     order.forEach((country) => {
         let countryStr = country.country
         countries.push(countryStr);
@@ -21,19 +23,15 @@ function generateBubble(yearSelected) {
         let scoreStr = country.happiness_score
         hscores.push(scoreStr);
     })
-    console.log("countries:", countries);
-    console.log("hscores:", hscores);
-
+    
     // Create a trace for the bubble chart
     let traceBubble = {
         x: countries,
         y: hscores,
         text: hscores,
-        //type: "scatter",
         mode: "markers",
         marker: {
             size: hscores.map(score => score * 3),
-            //sizemode: 'area',
             color: countries,
             colorscale: "Earth"
           
