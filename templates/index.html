@@ -69,7 +69,7 @@
 
                 <!-- Map to be displayed based on the year selected -->
                 <div>
-                <div id="map">Map</div>
+                <div id="map"></div>
                 </div>
             </section>
         </div>
@@ -118,6 +118,7 @@
   <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>  
 
   <!-- Javascript files -->
+  <script src="{{ url_for('static', filename='js/logic.js') }}"></script>
   <script src="{{ url_for('static', filename='js/gauge.js') }}"></script>
   <script src="{{ url_for('static', filename='js/bubble.js') }}"></script>
   <script src="{{ url_for('static', filename='js/bar.js') }}"></script>
