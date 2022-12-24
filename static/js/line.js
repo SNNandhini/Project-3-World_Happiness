@@ -119,8 +119,6 @@ function generateline() {
   var layout = {
     title: `<b> Top 10 Countries' Happiness Score History </b>`,
     showlegend: false,
-    height: 600,
-    width: 600,
     xaxis: {
       showline: true,
       showgrid: true,

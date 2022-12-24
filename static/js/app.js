@@ -26,6 +26,11 @@ function yearDropDown() {
     var displayYear = selectedYear.value;
     console.log("displayYear:", displayYear);
 
+    // Call the function to generate line chart based on the happiness score for top 10 countries along with the historical values
+    // This chart has both the current and historical values and isn't updated when the dropdown values are changed. 
+    // So this is called only once before generating the other charts.
+    generateline();
+
     // Call the function to generate charts based on the selected year
     generateCharts(displayYear);
 
@@ -56,9 +61,6 @@ function generateCharts(selectedYear) {
     
     // Call the function to generate bar chart based on the happiness score for top 10 countries
     generateBar(selectedYear);
-
-    // Call the function to generate line chart based on the happiness score for top 10 countries along with the historical values
-    generateline();
 
     // Call the function to populate the country dropdown menu based on the year selected
     countryDropDown(selectedYear);
