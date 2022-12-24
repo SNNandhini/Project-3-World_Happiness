@@ -1,0 +1,106 @@
+/* Background Image along with its size property and font type to be displayed on the page*/ 
+html, body {
+    background: url('../images/background4.jpg');
+    background-size: cover;
+    font-family: 'Mansalva', cursive;
+}
+
+/* padding properties of the container to be used for content, below the nav bar */
+.bg-container {
+    border: 0.001px solid lightgrey;
+    padding-right: 5px;
+    padding-left: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+/* Flexbox properties of the 2 and 3 column flexes used on the page */
+.two-column, .three-column {
+    display: flex;
+    flex-direction: row;
+}
+
+.two-column div, .two-row div, .three-column div {
+    flex: 1;
+}
+
+.two-row {
+    display: flex;
+    flex-direction: column;
+}
+
+/* properties of the Box container used within the flexboxes */
+.box {
+    border: 0.001px solid lightgrey;
+    background-color: white;
+}
+
+/* Properties of the string with the dropdown menu */
+.name-block {
+    float: left;
+    width: 20%;
+}
+
+/* Properties of the dropdown menu */
+.menu {
+    float: right;
+    width: 80%;
+}
+
+/* navbar background to make it transparent */
+.bg-custom {
+    background: rgba(0, 0, 0, .5);
+}
+
+/* Font properties to be used on the navbar */
+a {
+    font-size: 20px;
+}
+
+/* Properties of the menu items on the navbar */
+li {
+    padding-right: 25px;
+    line-height: 2;
+}
+
+/* Font properties of the navbar brand */
+.navbar-brand {
+    color: #fff !important;
+}
+
+/* Navbar menu items' transition properties */
+a.nav-link {
+    color: #fff !important;
+    transition: 0.2s;
+    box-sizing: border-box;
+    height: 55px;
+}
+
+a.nav-link::after {
+    content: '';
+    display: block;
+    width: 0px;
+    height: 2px;
+    background: #fec400;
+    transition: 0.2s;
+}
+
+a.nav-link:hover::after {
+    width: 100%;
+}
+
+/* css for small screens */
+ @media(max-width: 768px) {
+    .ml-auto {
+        text-align: center;
+    }
+
+    .two-column, .three-column {
+        flex-direction: column;
+    }
+
+    .bg-container, .box {
+        background: white;
+    }
+
+}

@@ -8,7 +8,7 @@ function generateBubble(yearSelected) {
     let countries = [];
     let hscores = [];
 
-    // Sort the data in ascending order based on the country names
+    // Sort the data in ascending order based on the country names, so the bubbles are displayed as scattered type
     var order = data.sort((a, b) => {
         if (a.country < b.country) {
             return -1;
@@ -17,10 +17,10 @@ function generateBubble(yearSelected) {
 
     // arrays above populated with the counties and happiness scores
     order.forEach((country) => {
-        let countryStr = country.country
+        let countryStr = country.country;
         countries.push(countryStr);
 
-        let scoreStr = country.happiness_score
+        let scoreStr = country.happiness_score;
         hscores.push(scoreStr);
     })
     
@@ -32,8 +32,8 @@ function generateBubble(yearSelected) {
         mode: "markers",
         marker: {
             size: hscores.map(score => score * 3),
-            color: countries,
-            colorscale: "Earth"
+            color: hscores,
+            colorscale: "Bluered"
           
         }
     }

@@ -35,7 +35,6 @@ function generateGauge(countrySelected, yearSelected) {
         x: [0],
         y: [0],
         marker: { size: 28, color: '850000' },
-        //name: score,
         hoverinfo: 'none'
     }
 
@@ -77,8 +76,8 @@ function generateGauge(countrySelected, yearSelected) {
                 }
         }],
         title: `<b>${countrySelected} ${yearSelected} <br> Happiness Score - ${score}</b> <br>`,
-        height: 475,
-        width: 475,
+        height: 500,
+        width: 500,
         xaxis: {
             zeroline:false, 
             showticklabels:false,
