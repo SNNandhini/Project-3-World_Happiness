@@ -36,7 +36,7 @@ function yearDropDown() {
 
 }
 
-// Function to identify the dataset associated with the year selected
+// Function to identify dataset associated with the year selected
 function yearDataset(selectedYear) {
     if (selectedYear == '2022') {
         yearData = year22;
@@ -56,6 +56,9 @@ function yearDataset(selectedYear) {
 // Function to generate charts based on the selected year
 function generateCharts(selectedYear) {
 
+    // Call the function to plot map based on the happiness score
+    plotMap(selectedYear);
+    
     // Call the function to generate bubble chart based on the happiness score
     generateBubble(selectedYear);
     
@@ -107,6 +110,14 @@ function optionChanged(newCountry) {
 
 // Call this function if the year dropdown menu option is changed
 function yearChanged(newYear) {
+
+    // Remove the existing map when the dropdown option is changed
+    if(map) {
+        map.remove();
+    }
+
+    // Recreate the map object so it can be used in the javascript for map without any issue
+    $( '#map-container' ).html( ' ' ).append( '<div id="map"></div>' );
     
     // Call the function to generate the charts based on the selected year
     generateCharts(newYear);

@@ -40,7 +40,7 @@ function generateGauge(countrySelected, yearSelected) {
 
     // create a trace for the gauge chart
     // type: "pie" is used here as the chart is based on pie concept
-    // values: 50% of the pie divided into 10 parts, the remaining 50% (so 10 values in total)
+    // values: 50% of the pie divided into 10 parts, the remaining 50% (so 11 values in total)
     // text: the text to be displayed on each part. The unused 50% is assigned with a blank 
     // rotation: the angle to rotate the pie, so the used 50% is at the top. Calculated the degrees that include the used segment and then halved that. ((360*0.5)/2)
     var traceGauge = {

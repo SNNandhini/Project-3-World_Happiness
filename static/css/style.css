@@ -3,6 +3,8 @@ html, body {
     background: url('../images/background4.jpg');
     background-size: cover;
     font-family: 'Mansalva', cursive;
+    margin: 0;
+    height: 100%;
 }
 
 /* padding properties of the container to be used for content, below the nav bar */
@@ -20,18 +22,28 @@ html, body {
     flex-direction: row;
 }
 
+/* Flexbox properties of the 2 and 3 column flexes used on the page */
 .two-column div, .two-row div, .three-column div {
     flex: 1;
 }
 
+/* Flexbox properties of the 2 column flexes used on the page */
 .two-row {
     display: flex;
     flex-direction: column;
+    /* border-bottom: 0.001px solid white; */
+}
+
+.three-column {
+    border-top: 0.001px solid lightgrey;
+    /* border-right: 0.001px solid lightgrey; */
 }
 
 /* properties of the Box container used within the flexboxes */
 .box {
-    border: 0.001px solid lightgrey;
+    /* border: 0.001px solid lightgrey; 
+    border-top: 0.001px solid lightgrey; */
+    border-right: 0.001px solid lightgrey; 
     background-color: white;
 }
 
@@ -39,6 +51,8 @@ html, body {
 .name-block {
     float: left;
     width: 20%;
+    text-align: right;
+    padding-right: 10px;
 }
 
 /* Properties of the dropdown menu */
@@ -89,16 +103,31 @@ a.nav-link:hover::after {
     width: 100%;
 }
 
+/* Flex properties of the map */
+.map-container {
+    display: flex;
+    flex-direction: column;
+}
+
+/* Flex properties of the map */
+#map {
+    flex: 1;
+}
+
 /* css for small screens */
  @media(max-width: 768px) {
+
+    /* Menu items' properties */
     .ml-auto {
         text-align: center;
     }
 
-    .two-column, .three-column {
+    /* Flex properties of 2 and 3 column flexboxes */
+    .two-column, .three-column, .two-column div, .three-column div {
         flex-direction: column;
     }
 
+    /* Properties of the content container and box */
     .bg-container, .box {
         background: white;
     }
