@@ -3,8 +3,6 @@ import os
 from dotenv import load_dotenv
 from sqlalchemy import create_engine
 from flask import Flask, render_template
-from urllib import parse
-import urllib.parse
 
 app = Flask(__name__)
 
@@ -17,7 +15,6 @@ def get_db_connection():
     protocol = os.getenv("PROTOCOL")
     username = os.getenv("USER_NAME")
     password = os.getenv("PASSWORD")
-    password=parse.quote(password)
     port = os.getenv("PORT")
     hostname = os.getenv("HOST")
     database = os.getenv("DATABASE")
