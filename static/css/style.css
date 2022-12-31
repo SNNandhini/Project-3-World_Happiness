@@ -31,18 +31,14 @@ html, body {
 .two-row {
     display: flex;
     flex-direction: column;
-    /* border-bottom: 0.001px solid white; */
 }
 
 .three-column {
     border-top: 0.001px solid lightgrey;
-    /* border-right: 0.001px solid lightgrey; */
 }
 
 /* properties of the Box container used within the flexboxes */
 .box {
-    /* border: 0.001px solid lightgrey; 
-    border-top: 0.001px solid lightgrey; */
     border-right: 0.001px solid lightgrey; 
     background-color: white;
 }
@@ -123,7 +119,7 @@ a.nav-link:hover::after {
     }
 
     /* Flex properties of 2 and 3 column flexboxes */
-    .two-column, .three-column, .two-column div, .three-column div {
+    .two-column, .three-column, .two-column div, .three-column div, .two-row div {
         flex-direction: column;
     }
 
