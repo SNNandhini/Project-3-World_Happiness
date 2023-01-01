@@ -1,0 +1,135 @@
+/* Background Image along with its size property and font type to be displayed on the page*/ 
+html, body {
+    background: url('../images/background4.jpg');
+    background-size: cover;
+    font-family: 'Mansalva', cursive;
+    margin: 0;
+    height: 100%;
+}
+
+/* padding properties of the container to be used for content, below the nav bar */
+.bg-container {
+    border: 0.001px solid lightgrey;
+    padding-right: 5px;
+    padding-left: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+/* Flexbox properties of the 2 and 3 column flexes used on the page */
+.two-column, .three-column {
+    display: flex;
+    flex-direction: row;
+}
+
+/* Flexbox properties of the 2 and 3 column flexes used on the page */
+.two-column div, .two-row div, .three-column div {
+    flex: 1;
+}
+
+/* Flexbox properties of the 2 column flexes used on the page */
+.two-row {
+    display: flex;
+    flex-direction: column;
+    /* border-bottom: 0.001px solid white; */
+}
+
+.three-column {
+    border-top: 0.001px solid lightgrey;
+    /* border-right: 0.001px solid lightgrey; */
+}
+
+/* properties of the Box container used within the flexboxes */
+.box {
+    /* border: 0.001px solid lightgrey; 
+    border-top: 0.001px solid lightgrey; */
+    border-right: 0.001px solid lightgrey; 
+    background-color: white;
+}
+
+/* Properties of the string with the dropdown menu */
+.name-block {
+    float: left;
+    width: 20%;
+    text-align: right;
+    padding-right: 10px;
+}
+
+/* Properties of the dropdown menu */
+.menu {
+    float: right;
+    width: 80%;
+}
+
+/* navbar background to make it transparent */
+.bg-custom {
+    background: rgba(0, 0, 0, .5);
+}
+
+/* Font properties to be used on the navbar */
+a {
+    font-size: 20px;
+}
+
+/* Properties of the menu items on the navbar */
+li {
+    padding-right: 25px;
+    line-height: 2;
+}
+
+/* Font properties of the navbar brand */
+.navbar-brand {
+    color: #fff !important;
+}
+
+/* Navbar menu items' transition properties */
+a.nav-link {
+    color: #fff !important;
+    transition: 0.2s;
+    box-sizing: border-box;
+    height: 55px;
+}
+
+a.nav-link::after {
+    content: '';
+    display: block;
+    width: 0px;
+    height: 2px;
+    background: #fec400;
+    transition: 0.2s;
+}
+
+a.nav-link:hover::after {
+    width: 100%;
+}
+
+/* Flex properties of the map */
+.map-container {
+    display: flex;
+    flex-direction: column;
+}
+
+/* Flex properties of the map */
+#map {
+    flex: 1;
+}
+
+/* css for small screens */
+ @media(max-width: 768px) {
+
+    /* Menu items' properties */
+    .ml-auto {
+        text-align: center;
+    }
+
+    /* Flex properties of 2 and 3 column flexboxes */
+    .two-column, .three-column, .two-column div, .three-column div {
+        flex-direction: column;
+    }
+
+    /* Properties of the content container and box */
+    .bg-container, .box {
+        background: white;
+    }
+
+}
