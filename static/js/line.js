@@ -22,7 +22,7 @@ function generateline() {
   let lineCountries = [];
   let lineHscores = [];
   
-  // arrays above populated with the counties and happiness scores
+  // arrays above populated with the countries and happiness scores
   lineOrder.forEach((country) => {
     let countryStr = country.country
     lineCountries.push(countryStr);

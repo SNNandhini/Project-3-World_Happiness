@@ -68,6 +68,9 @@ function generateCharts(selectedYear) {
     // Call the function to populate the country dropdown menu based on the year selected
     countryDropDown(selectedYear);
 
+    // Call the function to generate scatter plots and linear regression
+    generateScatter(selectedYear);
+
 }
 
 // Function to populate the country dropdown menu based on the year selected

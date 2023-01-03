@@ -7,8 +7,7 @@ function plotMap(yearSelected) {
   // We set the longitude, latitude, and starting zoom level.
   var myMap = L.map("map", {
       center: [33, 65],
-      zoom: 5
-      //zoom: 13
+      zoom: 3
     });
     
     // Adding a tile layer (the background map image) to our map:
@@ -28,8 +27,6 @@ function plotMap(yearSelected) {
 
         if (row.latitude != null) {
           
-          console.log(row.happiness_score);
-      
           // Add a new marker to the cluster group, and bind a popup.
           markers.addLayer(L.marker([row.latitude, row.longtitude])
               .bindPopup(String(row.happiness_score)).openPopup());
