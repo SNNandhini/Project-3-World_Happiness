@@ -1,4 +1,4 @@
-/* Background Image along with its size property and font type to be displayed on the page*/ 
+/* Background Image along with its size property and font type to be displayed on the page */ 
 html, body {
     background: url('../images/background4.jpg');
     background-size: cover;
