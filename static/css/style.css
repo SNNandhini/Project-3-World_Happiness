@@ -16,14 +16,21 @@ html, body {
     padding-bottom: 5px;
 }
 
-/* Flexbox properties of the 2 and 3 column flexes used on the page */
-.two-column, .three-column {
+/* Flexbox properties of the 2, 3 and 4 column flexes used on the page */
+.two-column, .three-column, .four-column {
     display: flex;
     flex-direction: row;
 }
 
-/* Flexbox properties of the 2 and 3 column flexes used on the page */
-.two-column div, .two-row div, .three-column div {
+.three-column,  .three-column div {
+    flex-basis: 100%;
+    flex-grow: 100%;
+    flex-shrink: 100%;
+    flex: 2
+}
+
+/* Flexbox properties of the 2, 3 and 4 column flexes used on the page */
+.two-column div, .two-row div, .four-column div {
     flex: 1;
 }
 
@@ -33,7 +40,7 @@ html, body {
     flex-direction: column;
 }
 
-.three-column {
+.three-column, .four-column {
     border-top: 0.001px solid lightgrey;
 }
 
@@ -118,8 +125,8 @@ a.nav-link:hover::after {
         text-align: center;
     }
 
-    /* Flex properties of 2 and 3 column flexboxes */
-    .two-column, .three-column, .two-column div, .three-column div, .two-row div {
+    /* Flex properties of 2, 3 and 4 column flexboxes */
+    .two-column, .three-column, .two-column div, .three-column, .four-column div {
         flex-direction: column;
     }
 
