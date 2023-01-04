@@ -43,7 +43,7 @@ Our final datasets contain the following attributes:
 -   Healthy Life Expectancy
 -   Freedom to make Life Choices
 
-We created the database World_Happiness on PostgreSQL and loaded the tables for coordinates, year2019, year2020, year2021 and year2022. See Main_Python.ipynb for details.
+We created the database World_Happiness on PostgreSQL and loaded the tables for coordinates, year2019, year2020, year2021 and year2022. See Main_Python.ipynb, world_happiness.sql for details.
 
 ![image](https://user-images.githubusercontent.com/111614210/210465053-9ff64113-aaee-4986-9e50-a33613e15efe.png)
 
@@ -54,5 +54,12 @@ We started off with a hand drawn design of the dashboard, which we created on a 
 
 ![image](https://user-images.githubusercontent.com/111614210/210468195-11d7e8c9-2fd0-4b0a-b21f-75eaa534d033.png)
 
+## Landing Web Page
+#### - Nandhini Nallathambi, Badrija Khalifa
+
+This dashboard page is designed to hold the maps and graphs created as part of this analysis. We've used Flexbox to create a multi-column responsive layout. 
+-   The page contains a Navbar at the top. 
+-   The content section below the navbar is divided into three sections: two-column flexbox, three-column flexbox and a four-column flexbox.
+-   There are 2 dropdpwn menus: one for filtering based on the year and the other based on country within the selected year.
 
 
