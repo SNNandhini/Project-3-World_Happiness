@@ -18,11 +18,11 @@ Visual Display and a Statistical Analysis!
 -   CSS/ Bootstrap
 
 ## Introduction
-The World Happiness Report is a publication that contains articles and rankings of national happiness, based on respondent ratings of their own lives, which the report also correlates with various (quality of) life factors.
+The World Happiness Report is a publication that contains articles and rankings of national happiness, based on respondent ratings of their own lives, which the report also correlates with various (quality of) life factors. (wikipedia, 2022)
 
-The pandemic brought not only pain and suffering but also an increase in social support and benevolence. As we battle the ills of disease and war, it is essential to remember the universal desire for happiness and the capacity of individuals to rally to each other’s support in times of great need.
+The pandemic brought not only pain and suffering but also an increase in social support and benevolence. As we battle the ills of disease and war, it is essential to remember the universal desire for happiness and the capacity of individuals to rally to each other’s support in times of great need. (worldhappiness, 2022)
 
-In this project we are analysing the World Happiness Reports from 2019 up to 2022. The aim is to identify the happy places in the world and the impact of different factors on the happiness score.
+In this project we are analysing the World Happiness Reports from 2019 up to 2022. The aim is to identify the happy places in the world and the impact of different factors on the happiness score. 
 
 For this, we are creating a dashboard with interactive graphs and maps for the selected years.
 
@@ -125,12 +125,30 @@ See scatter.js for details.
 6.  Social Support has the highest impact on Happiness score in 2022.
 
 ## Limitations
-1.  Happiness is a qualitative concept that cannot be quantified and it may depend on socioeconomic status or culture, mood or other psychological factors. Therefore it is an ambiguous and uncertain process.
-2.  It does not account for the many aspects of human well-being such as health, education, personal safety, social relations, work conditions, spirituality, and so on. 
-3.  Happiness surveys based on self-report can generate unreliable data due to respondents’ imperfect retrospection, vulnerability to context, and arbitrariness in measuring happiness.
+1.  Happiness is a qualitative concept that cannot be quantified and it may depend on socioeconomic status or culture, mood or other psychological factors. Therefore it is an ambiguous and uncertain process. (White, 2014)
+2.  It does not account for the many aspects of human well-being such as health, education, personal safety, social relations, work conditions, spirituality, and so on. (Stewart, 2014)
+3.  Happiness surveys based on self-report can generate unreliable data due to respondents’ imperfect retrospection, vulnerability to context, and arbitrariness in measuring happiness. (Zhou, 2010)
 
 ## References
+1.  Stewart, D. F., 2014. ohrh.law.ox.ac.uk. [Online] 
+    Available at: https://ohrh.law.ox.ac.uk/against-happiness-why-happiness-is-not-a-good-measure-of-progress/
+    [Accessed 03 January 2023].
 
+2.  White, M. D., 2014. www.mercatus.org. [Online] 
+    Available at: https://www.mercatus.org/research/research-papers/problems-measuring-and-using-happiness-policy-purposes
+    [Accessed 03 January 2023].
+
+3.  wikipedia, 2022. wikipedia. [Online] 
+    Available at: https://en.wikipedia.org/wiki/World_Happiness_Report
+    [Accessed 03 January 2023].
+
+4.  worldhappiness, 2022. worldhappiness. [Online] 
+    Available at: https://worldhappiness.report/
+    [Accessed 03 January 2023].
+
+5.  Zhou, H., 2010. www.monash.edu. [Online] 
+    Available at: https://www.monash.edu/__data/assets/pdf_file/0008/925460/_and_produquality-adjusted_human_capitalctivity_growth_1.pdf
+    [Accessed 03 January 2023].
 
 ## Files Uploaded
 -   Project Scope and Final Presentation in the "Project Documents" folder.
