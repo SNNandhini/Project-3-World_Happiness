@@ -43,3 +43,6 @@ Our final datasets contain the following attributes:
 
 We created the database World_Happiness on PostgreSQL and loaded the tables for coordinates, year2019, year2020, year2021 and year2022. See Main_Python.ipynb for details.
 
+![image](https://user-images.githubusercontent.com/111614210/210465053-9ff64113-aaee-4986-9e50-a33613e15efe.png)
+
+
