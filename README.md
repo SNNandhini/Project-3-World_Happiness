@@ -76,7 +76,7 @@ See templates/index.html and static/js/app.js for details.
 
 The Map in the top left corner of the dashboard displays the markers based on the happiness score for the selected year. This map uses Leaflet.js library. Markers are attached to each country displaying the Happiness score for the selected year. The circles on the map are coloured based on the density of the countries and zoom used. See static/js/logic.js for details.
 
-image.png
+![image](https://user-images.githubusercontent.com/111614210/210494069-749f8bb5-cb17-4d65-922c-7a30515217c9.png)
 
 ## Charts and Graphs - Plotly.js 
 #### - Nandhini Nallathambi
@@ -84,22 +84,22 @@ image.png
 ### Bubble Chart
 The Bubble Chart in the top right corner displays the countries and their happiness scores for the year selected. See static/js/bubble.js for details.
 
-image.png
+![image](https://user-images.githubusercontent.com/111614210/210494023-a9b55302-3d46-4f0f-b8f6-11aee0c253f7.png)
 
 ### Bar Chart
 The horizontal bar chart displays the top 10 countries based on the happiness score for the selected year. See static/js/bar.js for details.
 
-image.png
+![image](https://user-images.githubusercontent.com/111614210/210493976-4738d398-01cf-4990-98be-48d12cfc972a.png)
 
 ### Line Graph
 The line graph displays the top ten countries based on happiness score from 2022 along with the historical data for those 10 countries. This graph is loaded once and remains the same throughout. See static/js/line.js for details.
 
-image.png
+![image](https://user-images.githubusercontent.com/111614210/210493933-44b330b5-cfb5-46f0-bf80-3bb7802ea9d6.png)
 
 ### Gauge Chart
 The Gauge Chart displays the happiness score for the selected country in the selected year. The country dropdown menu is upated each time a different year is selcted in the year dropdown menu. See static/js/gauge.js for details.
 
-image.png
+![image](https://user-images.githubusercontent.com/111614210/210493866-1a04cfa7-5dba-4e0d-886d-1bad4b137a35.png)
 
 ## Statistical Analysis - Plotly.js, Regression.js, JStat.js
 ####  - Nandhini Nallathambi
@@ -111,8 +111,10 @@ Scatter plots along with Linear Regression are generated as part of this analysi
 - Annotations in Plotly.js are used for displaying the line equation, r-squared and p-values.
 See scatter.js for details.
 
-
-
+![image](https://user-images.githubusercontent.com/111614210/210493530-7ff3332f-7143-4b84-aa16-60e8c92cbd50.png)
+![image](https://user-images.githubusercontent.com/111614210/210493583-4a94fa49-0445-463a-9ebb-65d24be8ec0e.png)
+![image](https://user-images.githubusercontent.com/111614210/210493656-4619a3e3-a811-496d-adca-eef04bc5590e.png)
+![image](https://user-images.githubusercontent.com/111614210/210493710-38741c0f-fb1f-4787-baa0-b5b9c5394c65.png)
 
 ## Conclusions
 
