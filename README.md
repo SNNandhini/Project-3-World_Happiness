@@ -92,7 +92,7 @@ The horizontal bar chart displays the top 10 countries based on the happiness sc
 ![image](https://user-images.githubusercontent.com/111614210/210493976-4738d398-01cf-4990-98be-48d12cfc972a.png)
 
 ### Line Graph
-The line graph displays the top ten countries based on happiness score from 2022 along with the historical data for those 10 countries. This graph is loaded once and remains the same throughout. See static/js/line.js for details.
+The line graph displays the top ten countries based on happiness score from 2022 along with the historical data for those 10 countries. Annotations in Plotly.js are used for displaying the country names on the left each line. This graph is loaded once and remains the same throughout. See static/js/line.js for details.
 
 ![image](https://user-images.githubusercontent.com/111614210/210493933-44b330b5-cfb5-46f0-bf80-3bb7802ea9d6.png)
 
@@ -124,12 +124,19 @@ See scatter.js for details.
 5.  Only non-European country placed in top 10 in all years : New Zealand
 6.  Social Support has the highest impact on Happiness score in 2022.
 
-
-
-
-
 ## Limitations
+1.  Happiness is a qualitative concept that cannot be quantified and it may depend on socioeconomic status or culture, mood or other psychological factors. Therefore it is an ambiguous and uncertain process.
+2.  It does not account for the many aspects of human well-being such as health, education, personal safety, social relations, work conditions, spirituality, and so on. 
+3.  Happiness surveys based on self-report can generate unreliable data due to respondents’ imperfect retrospection, vulnerability to context, and arbitrariness in measuring happiness.
 
 ## References
 
 ## Files Uploaded
+-   Project Scope and Final Presentation in the "Project Documents" folder.
+-   Input csv files in the "Resources" folder.
+-   "Main_Python" jupyter notebook used for cleaning up and uploading the data into PostgreSQL.
+-   Python Flask API - "app.py" 
+-   Landing page - "templates/index.html" 
+-   Javascript files - "static/js/"
+-   CSS - "static/css/"
+-   sql used for creating tables - "world_happiness.sql"
