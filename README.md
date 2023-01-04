@@ -117,6 +117,16 @@ See scatter.js for details.
 ![image](https://user-images.githubusercontent.com/111614210/210493710-38741c0f-fb1f-4787-baa0-b5b9c5394c65.png)
 
 ## Conclusions
+1.  Finland is the happiest country on all the analysed datasets from 2019 to 2022.
+2.  UK - 2022 has the worst score from all years.
+3.  Afghanistan took the last place in 2022 with the score of 2.4
+4.  Top 10 dominated by European countries (8-9 places).
+5.  Only non-European country placed in top 10 in all years : New Zealand
+6.  Social Support has the highest impact on Happiness score in 2022.
+
+
+
+
 
 ## Limitations
 
