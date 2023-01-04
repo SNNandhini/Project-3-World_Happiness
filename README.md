@@ -62,4 +62,7 @@ This dashboard page is designed to hold the maps and graphs created as part of t
 -   The content section below the navbar is divided into three sections: two-column flexbox, three-column flexbox and a four-column flexbox.
 -   There are 2 dropdpwn menus: one for filtering based on the year and the other based on country within the selected year.
 
+![image](https://user-images.githubusercontent.com/111614210/210488122-ca0d7cf7-d227-43b4-8b5f-332d91406b8c.png)
+
+
 
