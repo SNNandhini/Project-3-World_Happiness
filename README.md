@@ -27,7 +27,8 @@ In this project we are analysing the World Happiness Reports from 2019 up to 202
 For this, we are creating a dashboard with interactive graphs and maps for the selected years.
 
 ## Data Extraction, Transformation and Load
-##### Kazimierz Lubas
+#### - Kazimierz Lubas
+
 We have used the datasets from
 -   Kaggle (https://www.kaggle.com/datasets/mathurinache/world-happiness-report) for World Happiness Reports
 -   GitHub/metal3D (https://gist.github.com/metal3d/5b925077e66194551df949de64e910f6) for country coordinates
@@ -46,6 +47,9 @@ We created the database World_Happiness on PostgreSQL and loaded the tables for 
 
 ![image](https://user-images.githubusercontent.com/111614210/210465053-9ff64113-aaee-4986-9e50-a33613e15efe.png)
 
+## Dashboard Designing and Wireframe
+#### Farah Hayat
 
+We started off with a hand drawn design of the dashboard, which we created on a wireframe tool later. After the initial draft of the html page, we updated the design to add and remove graphs to make it look professional. After multiple reviews and updates, the dashboard has evolved to what it is today.
 
 
